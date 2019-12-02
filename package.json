@@ -1,0 +1,22 @@
+{
+  "name": "ease",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyw123456/ease.git"
+  },
+  "keywords": [
+    "ease"
+  ],
+  "author": "hyw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyw123456/ease/issues"
+  },
+  "homepage": "https://github.com/hyw123456/ease#readme"
+}
